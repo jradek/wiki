@@ -2,8 +2,23 @@
 
 ## General
 
-* Podcast [LambdaCast](https://soundcloud.com/lambda-cast)
+* Podcasts
+  * [LambdaCast](https://soundcloud.com/lambda-cast)
+  * [Functional Geekery](https://www.functionalgeekery.com/)
 * Conference [LambdaConf](http://lambdaconf.us/)
+
+### Persons
+
+* Mario Fusco (java)
+* Trisha Gee (java)
+* Pierre-Yves Saumont (java)
+* David Koontz (Lambdcast)
+* Brian Lonsdorf (Dr. Boolean, javascript)
+* Scott Wlaschin (F\#)
+
+## FP in F\#
+
+* [F\# for Fun and Profit](https://fsharpforfunandprofit.com/)
 
 ## FP in Haskell
 
@@ -18,11 +33,15 @@
 
 ## FP in Java
 
+* [Do it in Java 8: Automatic memoization](https://dzone.com/articles/java-8-automatic-memoization)
 * Monads
   * [Do it in Java 8 - the state monad](https://dzone.com/articles/do-it-in-java-8-state-monad)
   * [Functor and monad examples in plain Java](http://www.nurkiewicz.com/2016/06/functor-and-monad-examples-in-plain-java.html)
   * [Dependency injection using the Reader Monad in Java 8](https://medium.com/@johnmcclean/dependency-injection-using-the-reader-monad-in-java8-9056d9501c75)
   * [Write You a Monad for No Particular Reason at All!](http://troydm.github.io/blog/2015/01/25/write-you-a-monad-for-no-particular-reason-at-all/)
+* Many java 8 stuff
+  * [Github Erwin Duponter](https://github.com/duponter/java-tryouts)
+  * Monads ```src/main/java/edu/tryouts/java8/monads````
 
 ## FP in JavaScript
 
