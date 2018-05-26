@@ -6,6 +6,7 @@
   * [LambdaCast](https://soundcloud.com/lambda-cast)
   * [Functional Geekery](https://www.functionalgeekery.com/)
     * [Recommendations](http://mo.github.io/2017/11/30/functional-geekery-good-episodes.html)
+  * [MAGIC READ ALONG](http://www.magicreadalong.com/)
 * Conference [LambdaConf](http://lambdaconf.us/)
 
 ### Persons
