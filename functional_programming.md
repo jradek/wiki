@@ -20,8 +20,7 @@
 * Richard Feldman (Elm)
 * Phil Freeman (PureScript)
 
-
-## FP in F\#
+## FP in F Sharp
 
 * [F\# for Fun and Profit](https://fsharpforfunandprofit.com/)
 
@@ -72,3 +71,7 @@
 * [OSlash library](https://github.com/dbrattli/OSlash)
   * [Functors, Applicatives, And Monads In Pictures](https://github.com/dbrattli/oslash/wiki/Functors,-Applicatives,-And-Monads-In-Pictures)
   * [Three Useful Monads](https://github.com/dbrattli/OSlash/wiki/Three-Useful-Monads)
+
+## FP in Standard ML
+
+* [SML-Utils (Monads etc)](https://github.com/msullivan/sml-util)
