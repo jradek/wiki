@@ -14,9 +14,12 @@
 * Mario Fusco (java)
 * Trisha Gee (java)
 * Pierre-Yves Saumont (java)
-* David Koontz (Lambdcast)
+* David Koontz (Lambdacast)
 * Brian Lonsdorf (Dr. Boolean, javascript)
 * Scott Wlaschin (F\#)
+* Richard Feldman (Elm)
+* Phil Freeman (PureScript)
+
 
 ## FP in F\#
 
@@ -43,7 +46,7 @@
   * [Write You a Monad for No Particular Reason at All!](http://troydm.github.io/blog/2015/01/25/write-you-a-monad-for-no-particular-reason-at-all/)
 * Many java 8 stuff
   * [Github Erwin Duponter](https://github.com/duponter/java-tryouts)
-  * Monads ```src/main/java/edu/tryouts/java8/monads````
+  * Monads `src/main/java/edu/tryouts/java8/monads`
 
 ## FP in JavaScript
 
