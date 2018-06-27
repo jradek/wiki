@@ -38,6 +38,8 @@
   * Great Summarization of: Functors, Applicatives, and Monads
   * [Video (youtube)](https://www.youtube.com/watch?v=v9QGWbGppis)
   * [Slides (take NDC Sydney)](https://github.com/daniel-chambers/FunctionalProgrammingPatterns)
+* [Typeclassopedia](https://wiki.haskell.org/Typeclassopedia)
+  * Functors, Applicatives, and many many more
 
 ## FP in Scala
 
