@@ -39,6 +39,11 @@
   * [Video (youtube)](https://www.youtube.com/watch?v=v9QGWbGppis)
   * [Slides (take NDC Sydney)](https://github.com/daniel-chambers/FunctionalProgrammingPatterns)
 
+## FP in Scala
+
+* [A Pragmatic Introduction to Category Theory](https://www.youtube.com/watch?v=Ss149MsZluI)
+  * Includes Monoids, Functors, Applicatives, and Monads
+
 ## FP in Java
 
 * [Do it in Java 8: Automatic memoization](https://dzone.com/articles/java-8-automatic-memoization)
