@@ -34,6 +34,10 @@
   * [github](https://github.com/FFPiHaskell)
 * [Vorlesung: Programmieren in Haskell WS 2012/2013](https://www.techfak.uni-bielefeld.de/ags/pi/lehre/AuDIWS12/) (**german**)
 * [Fortgeschrittene Funktionale Programmierung](https://www.tcs.ifi.lmu.de/lehre/ws-2015-16/fun) (**german**)
+* Functional Programming Patterns for Mere Mortals (Daniel Chambers)
+  * Great Summarization of: Functors, Applicatives, and Monads
+  * [Video (youtube)](https://www.youtube.com/watch?v=v9QGWbGppis)
+  * [Slides (take NDC Sydney)](https://github.com/daniel-chambers/FunctionalProgrammingPatterns)
 
 ## FP in Java
 
