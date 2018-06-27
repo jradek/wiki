@@ -40,6 +40,7 @@
   * [Slides (take NDC Sydney)](https://github.com/daniel-chambers/FunctionalProgrammingPatterns)
 * [Typeclassopedia](https://wiki.haskell.org/Typeclassopedia)
   * Functors, Applicatives, and many many more
+  * similar to [JavaScript Fantasyland](#fp-in-javascript)
 
 ## FP in Scala
 
@@ -70,6 +71,9 @@
 * [Using trampolines to manage large recursive loops in JavaScript](https://blog.logrocket.com/using-trampolines-to-manage-large-recursive-loops-in-javascript-d8c9db095ae3)
 * [Ramda library](http://ramdajs.com/)
   * Youtube series by Christopher Okhravi, [Ramda JS Tutorial](https://www.youtube.com/watch?v=Cltoo-NJ2JM&list=PLrhzvIcii6GMeyUfpn-o5xVCH3_UykrzI)
+* [FantasyLand](https://github.com/fantasyland/fantasy-land)
+  * This project specifies interoperability of common algebraic structures: monoid, semigroup, etc
+  * similar to [Haskell Typeclassopedia](#fp-in-haskell)
 
 ## FP in Kotlin
 
