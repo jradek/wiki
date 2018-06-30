@@ -74,6 +74,11 @@
 * [FantasyLand](https://github.com/fantasyland/fantasy-land)
   * This project specifies interoperability of common algebraic structures: monoid, semigroup, etc
   * similar to [Haskell Typeclassopedia](#fp-in-haskell)
+* Tom Harding explains Fantasy Land
+  * Covers: semogroup, monoids, ..., functors, applicative, monads, ..., bifunctor
+  * [Blog Post Series](http://www.tomharding.me/fantasy-land/)
+  * [github repo](https://github.com/i-am-tom/fantas-eel-and-specification)
+
 
 ## FP in Kotlin
 
