@@ -2,6 +2,7 @@
 
 [FP](functional_programming.md)
 [Docker](docker.md)
+[Machine Learning](machine_learning.md)
 
 [Menu Item 1]()
 
