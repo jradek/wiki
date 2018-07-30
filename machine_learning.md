@@ -40,7 +40,7 @@
 
 * Nice introduction (with example) to RNN and LSTM
     [Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM)](https://www.youtube.com/watch?v=WCUNPb-5EYI)
-* From coursera course (Deep Learning)
+* From coursera course [Deep Learning](https://www.coursera.org/specializations/deep-learning)
    * [playlist](https://www.youtube.com/watch?v=quoGRI-1l0A&index=6&list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6)
    * [code](https://github.com/JudasDie/deeplearning.ai)
 
