@@ -36,6 +36,10 @@
 
 ## Sequence to sequence models
 
+### Neural Machine Translation (NMT)
+
+* [Open NMT](http://opennmt.net/)
+
 ### Videos
 
 * Nice introduction (with example) to RNN and LSTM
