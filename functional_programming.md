@@ -7,22 +7,24 @@
   * [Functional Geekery](https://www.functionalgeekery.com/)
     * [Recommendations](http://mo.github.io/2017/11/30/functional-geekery-good-episodes.html)
   * [MAGIC READ ALONG](http://www.magicreadalong.com/)
+  * [DEFN - Clojure podcast](https://soundcloud.com/defn-771544745)
+  * [Cognicast](http://blog.cognitect.com/cognicast/)
 * Conference [LambdaConf](http://lambdaconf.us/)
 
 ### Persons
 
-* Mario Fusco (java)
-* Trisha Gee (java)
-* Pierre-Yves Saumont (java)
 * David Koontz (Lambdacast)
 * Brian Lonsdorf (Dr. Boolean, javascript)
-* Scott Wlaschin (F\#)
 * Richard Feldman (Elm)
 * Phil Freeman (PureScript)
 
 ## FP in F Sharp
 
 * [F\# for Fun and Profit](https://fsharpforfunandprofit.com/)
+* Persons
+  * Scott Wlaschin
+  * Mark Seemann [page](http://blog.ploeh.dk/)
+  * Tomas Petricek [page](http://tomasp.net/)
 
 ## FP in Haskell
 
@@ -58,6 +60,10 @@
 * Many java 8 stuff
   * [Github Erwin Duponter](https://github.com/duponter/java-tryouts)
   * Monads `src/main/java/edu/tryouts/java8/monads`
+* Persons
+  * Mario Fusco
+  * Trisha Gee
+  * Pierre-Yves Saumont (book author)
 
 ## FP in JavaScript
 
@@ -95,3 +101,7 @@
 ## FP in Standard ML
 
 * [SML-Utils (Monads etc)](https://github.com/msullivan/sml-util)
+
+## FP in Clojure
+
+* a lot :-)
