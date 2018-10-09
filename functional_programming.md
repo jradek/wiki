@@ -104,4 +104,23 @@
 
 ## FP in Clojure
 
-* a lot :-)
+### Persons
+
+* Rich Hickey
+* [Stuart Halloway](https://github.com/stuarthalloway)
+* [Alex Miller](https://github.com/puredanger)
+* [David Nolan](https://github.com/swannodette)
+* [Carin Meier](http://gigasquidsoftware.com)
+* [Eric Normand](https://purelyfunctional.tv)
+
+### Online
+
+* [Blog](https://curiousprogrammer.net)
+* [QUIL-REPL](https://jaredforsyth.com/tutorial-cljs/)
+
+### Libraries
+
+* Game Development
+  * [QUIL](http://quil.info)
+  * [play-clj](https://github.com/oakes/play-clj)
+* [Specter](https://github.com/nathanmarz/specter)
